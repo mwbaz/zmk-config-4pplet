@@ -27,8 +27,6 @@
 &kp LCTRL  &kp LGUI  &kp LALT  &kp SPACE  &lt 1 SPACE  &kp SPACE  &kp RALT  &mo FN1  &kp RGUI  &kp RCTRL
 &kp C_PP
             >;
-
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
         };
 
         fn_layer {
